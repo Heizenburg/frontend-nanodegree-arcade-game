@@ -18,3 +18,5 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+[![Run on Repl.it](https://repl.it/badge/github/udacity/frontend-nanodegree-arcade-game)](https://repl.it/github/udacity/frontend-nanodegree-arcade-game)
